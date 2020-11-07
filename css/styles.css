@@ -1,0 +1,152 @@
+body{
+  font-family: Montserrat;
+  color: white;
+  overflow-x: hidden;
+}
+
+
+#title1{
+  background-color: #ef7e56;
+  padding-bottom: 3%;
+
+}
+
+h1{
+  font-family: Ubuntu;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+h3{
+
+}
+
+.ind{
+  font-size: 5rem;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+.navbar{
+  padding: 0 0 4.5rem;
+}
+
+
+.navbar-brand{
+  font-family: Ubuntu;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.nav-item{
+  padding: 0 18px;
+  font-weight: bolder;
+}
+
+.nav-link{
+  font-size: 1.4rem;
+
+}
+
+
+
+.state-class{
+  margin: 45% 3% 5% 0;
+  width: 40%;
+}
+
+.title-img{
+  padding-top: 10%;
+
+  margin-left: 25%;
+  width: 80%;
+  transform: rotate(20deg);
+}
+
+
+#landscapes{
+  color: #25a55f;
+  background-color: #f5f7e3;
+  padding-top: 10%;
+  padding-bottom: 7%;
+}
+
+.landscapes-text{
+  padding-top: 15%;
+  padding-left: 15%;
+  font-family: Ubuntu;
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+.timg{
+  width: 90%;
+  transform: rotate(20deg);
+}
+
+
+#login{
+    background-color: #ff004d;
+}
+
+.login-title{
+  padding-bottom: 5%;
+}
+
+
+.lform{
+  margin-top: 7%;
+  width: 60%;
+  font-size: 1.5rem;
+  padding: 5%;
+  margin-left: 20%;
+}
+
+.login-class{
+
+  padding: 3%;
+  width: 100%;
+}
+.log-img{
+  width: 60%;
+  margin-left: 20%;
+}
+.container-signin{
+  padding-top: 6%;
+}
+.container-signin a{
+  text-decoration: none;
+  color: #d2f6fc;
+}
+
+
+#register{
+    background-color: #346473;
+
+}
+.reg-img{
+  width: 60%;
+  margin-left: 20%;
+  padding-top: 3%;
+}
+
+#aboutus{
+  background-color: #d2f6fc;
+  color: #305973;
+  padding: 7% 15%;
+}
+
+
+
+.aval{
+  text-align: center;
+}
+
+.icon{
+  color: #6730ec;
+  margin-bottom: 1rem;
+}
+
+.icon:hover{
+  color: #25a55f;
+}
