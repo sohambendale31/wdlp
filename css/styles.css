@@ -7,7 +7,7 @@ body{
 
 #title1{
   background-color: #ef7e56;
-  padding-bottom: 3%;
+
 
 }
 
@@ -60,8 +60,8 @@ h3{
   padding-top: 10%;
 
   margin-left: 25%;
-  width: 80%;
-  transform: rotate(20deg);
+  width: 100%;
+
 }
 
 
@@ -81,7 +81,7 @@ h3{
 }
 .timg{
   width: 90%;
-  transform: rotate(20deg);
+
 }
 
 
